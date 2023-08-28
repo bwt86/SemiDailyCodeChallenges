@@ -1,3 +1,4 @@
+# Challenge/Mini-project from logic game Bagels, by Al Sweigart al@inventwithpython.com from Big Book of small python projects
 # Objectives: Genherate random number, let user guess number, let user know how correct their guess is, if correct tell user they are correct and ask to play again
 #import random for random number generation
 import random
